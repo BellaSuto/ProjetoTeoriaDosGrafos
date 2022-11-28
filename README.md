@@ -25,7 +25,7 @@ O menor risco para que uma mensagem seja repassada para todos os conspiradores:
 Risco= 30
 
 ```
-## ✔️ Técnicas e tecnologias utilizadas
+## ✔️ Algoritmo e tecnologias utilizadas
 
 - ``Java 16``
 - ``InteliJ IDEA``
