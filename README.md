@@ -14,7 +14,7 @@ risco associados à comunicação direta entre cada par de conspiradores é dado
 
 Todas as outras comunicações diretas são impraticáveis pois exporiam todos os esquema de
 disfarce. Qual é o menor risco total envolvido neste sistema de conexão, ou seja, o menor risco para
-que uma mensagem seja repassada para todos os conspiradores?O calculo foi realizado com base na técnica de ordenação topológica utilizando o algoritmo de kahn.
+que uma mensagem seja repassada para todos os conspiradores?
 
 ### Resultado
 
